@@ -15,8 +15,10 @@ O objeto do projeto seria uma espécie de "arquivo social", que identifica inter
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* João Carlos Oliveira Caetano
+* Ilo Amy Saldanha Rivero
+* Carlos Augusto Paiva da Silva Martins
 
 ## Instruções de utilização
 
